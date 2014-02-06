@@ -11,12 +11,12 @@ DOGE: `DNbAod6Y4VcB9SzANMXAm5emj6gzQoTXsd`
 
 [Download Zip](https://github.com/wellsriley/flatbamt/archive/master.zip)
 
-**Note:** You just downloaded random files from a dude on the internet. He isn't responsible if you break your miner. Check the source code and _proceed at your own risk_. That being said, if you find a bug, please contact me @wr on Twitter or open a pull request on GitHub.
-**Note:** This was created and tested under BAMT 1.3 for R9 class AMD cards. Proceed at your own risk with other versions.
+* **Note:** You just downloaded random files from a dude on the internet. He isn't responsible if you break your miner. Check the source code and _proceed at your own risk_. That being said, if you find a bug, please contact me @wr on Twitter or open a pull request on GitHub.
+* **Note:** This was created and tested under BAMT 1.3 for R9 class AMD cards. Proceed at your own risk with other versions.
 
 ---------------------
 
-### Security
+## Security
 After downloading the ZIP package for this theme, you should find a file
 named `theme.tar.gz.sig` which you can use to:
 
@@ -33,7 +33,7 @@ the key belongs to the owner" do not worry, this is normal.
 
 ---------------------
 
-## INSTRUCTIONS:
+## Instructions
 
 1.	Copy theme.tar.gz, themeBackup.sh, and themeRestore.sh to your BAMT miner's home directory.
 
