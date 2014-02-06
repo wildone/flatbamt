@@ -1,10 +1,8 @@
 # Flat UI theme for BAMT
-
-### [Download Zip](https://github.com/wellsriley/flatbamt/archive/master.zip)
-
 Distributed for free and with no license by Wells Riley
-
 [twitter.com/wr](https://twitter.com/wr) --- [wells.ee](http://wells.ee) --- [github.com/wellsriley](http://github.com/wellsriley)
+
+#### [Download Zip](https://github.com/wellsriley/flatbamt/archive/master.zip)
 
 ---------------------
 BTC:  `1BrQpq4qdxnwJoD2WKKNMo4PLa8oi2mxAU`
