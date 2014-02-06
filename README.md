@@ -48,6 +48,8 @@ the key belongs to the owner" do not worry, this is normal.
 
 6.	Reboot your miner `sudo coldreboot`.
 
+7.	Voilà! You should be able to see the updated theme at `http://[your miner's ip]` and mgpumon at `http://[your miner's ip]/mgpumon/`.
+
 -------------------
 
 You might want to replace 	the satellite or amoeba icons with your own. Fortunately, I included the source file 	`theme.sketch` which is a Sketch.app (for Mac) vector file. I used the [Flat UI Colors](http://flatuicolors.com) palate and [Streamline icons](http://streamlineicons.com).
