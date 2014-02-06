@@ -21,6 +21,7 @@ DOGE: `DNbAod6Y4VcB9SzANMXAm5emj6gzQoTXsd`
 *	Beautiful reskin of the default BAMT web UI. Much easier to look at ;)
 *	Custom favicons that can be color-coded to identify different miners within your browser tabs
 *	Custom iOS touch icons for your homescreen and mobilesafari bookmarks.
+*	Installer script makes backing up original files and installing new ones easy.
 * Source file for icons is open source.
 
 ## Security
