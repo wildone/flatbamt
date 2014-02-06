@@ -17,6 +17,12 @@ DOGE: `DNbAod6Y4VcB9SzANMXAm5emj6gzQoTXsd`
 
 ---------------------
 
+## Features
+*	Beautiful reskin of the default BAMT web UI. Much easier to look at ;)
+*	Custom favicons that can be color-coded to identify different miners within your browser tabs
+*	Custom iOS touch icons for your homescreen and mobilesafari bookmarks.
+* Source file for icons is open source.
+
 ## Security
 After downloading the ZIP package for this theme, you should find a file
 named `theme.tar.gz.sig` which you can use to:
