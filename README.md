@@ -1,15 +1,19 @@
 # Flat UI theme for BAMT
-========================================================
+
 Distributed for free and with no license by Wells Riley
 [twitter.com/wr](https://twitter.com/wr) --- [wells.ee](http://wells.ee) --- [github.com/wellsriley](http://github.com/wellsriley)
-========================================================
+
+---------------------
 BTC:  `1BrQpq4qdxnwJoD2WKKNMo4PLa8oi2mxAU`
 DOGE: `DNbAod6Y4VcB9SzANMXAm5emj6gzQoTXsd`
+
 ---------------------
+
 [Download Zip](https://github.com/wellsriley/flatbamt/archive/master.zip)
----------------------
+
 **Note:** You just downloaded random files from a dude on the internet. He isn't responsible if you break your miner. Check the source code and _proceed at your own risk_. That being said, if you find a bug, please contact me @wr on Twitter or open a pull request on GitHub.
 **Note:** This was created and tested under BAMT 1.3 for R9 class AMD cards. Proceed at your own risk with other versions.
+
 ---------------------
 
 ### Security
@@ -26,6 +30,8 @@ And then verify the resulting signature's fingerprint against Wells Riley's publ
 
 If you get warnings like "This key is not certified, there is no indication that
 the key belongs to the owner" do not worry, this is normal.
+
+---------------------
 
 ## INSTRUCTIONS:
 
