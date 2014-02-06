@@ -13,7 +13,7 @@ DOGE: `DNbAod6Y4VcB9SzANMXAm5emj6gzQoTXsd`
 ---------------------
 
 * **Note:** You just downloaded random files from a dude on the internet. He isn't responsible if you break your miner. Check the source code and _proceed at your own risk_. That being said, if you find a bug, please contact me @wr on Twitter or open a pull request on GitHub.
-* **Note:** This was created and tested under BAMT 1.3 for R9 class AMD cards. Proceed at your own risk with other versions.
+* **Note:** This was created and tested under [BAMT 1.3 for R9 class AMD cards](https://litecointalk.org/index.php?topic=2924.0). Proceed at your own risk with other versions.
 
 ---------------------
 
