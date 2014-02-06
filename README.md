@@ -32,7 +32,7 @@ And then verify the resulting signature's fingerprint against Wells Riley's publ
 If you get warnings like "This key is not certified, there is no indication that
 the key belongs to the owner" do not worry, this is normal.
 
----------------------
+![icons](http://wellsosaur.us/Tm09/icons.png)
 
 ## Instructions
 
