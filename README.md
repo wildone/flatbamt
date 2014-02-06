@@ -1,7 +1,8 @@
-![preview](http://wellsosaur.us/Tlx5/flatbamtpreview.png)
 # Flat UI theme for BAMT
 Distributed for free and with no license by Wells Riley
 [twitter.com/wr](https://twitter.com/wr) --- [wells.ee](http://wells.ee) --- [github.com/wellsriley](http://github.com/wellsriley)
+
+![preview](http://wellsosaur.us/Tlx5/flatbamtpreview.png)
 
 #### [Download Zip](https://github.com/wellsriley/flatbamt/archive/master.zip)
 
