@@ -49,7 +49,7 @@ the key belongs to the owner" do not worry, this is normal.
 
 3.	Run `./themeRestore.sh` – this will copy the new theme files into their appropriate directories. **This will overwrite the default files!** *You backed up your old files, right? ;)*
 
-4.	Type `sudo nano /etc/bamt/bamt.conf` and locate `miner_id`. Add a line underneath called `miner_name` and give your miner a human-readable name. For example, if your `miner-id` is `battlestar` you might want to use `Battlestar`.
+4.	Type `sudo nano /etc/bamt/bamt.conf` and locate `miner_id`. Add a line underneath called `miner_name` and give your miner a human-readable name. For example, if your `miner-id` is `battlestar` you might want to use `Battlestar` or `Battlestar Galactica`.
 
 5.	Press CTRL+O, Enter, then CTRL+X to save and exit.
 
