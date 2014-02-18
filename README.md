@@ -18,7 +18,7 @@ DOGE: `DNbAod6Y4VcB9SzANMXAm5emj6gzQoTXsd`
 ---------------------
 
 ## Features
-*	Beautiful reskin of the default BAMT web UI. Much easier to look at ;)
+*	Beautiful reskin of the default BAMT web UI. Much easier to look at.
 *	Custom favicons that can be color-coded to identify different miners within your browser tabs
 *	Custom iOS touch icons for your homescreen and mobilesafari bookmarks.
 *	Installer script makes backing up original files and installing new ones easy.
@@ -45,9 +45,9 @@ the key belongs to the owner" do not worry, this is normal.
 
 1.	Copy theme.tar.gz, themeBackup.sh, and themeRestore.sh to your BAMT miner's home directory.
 
-2.	Run `./themeBackup` – this will create a tar.gz backup of your existing theme files and place it in /var/www/
+2.	Run `./themeBackup.sh` – this will create a tar.gz backup of your existing theme files and place it in /var/www/
 
-3.	Run `./themeRestore` – this will copy the new theme files into their appropriate directories. This is a **destructive action!** *You backed up your old files, right? ;)*
+3.	Run `./themeRestore.sh` – this will copy the new theme files into their appropriate directories. This is a **destructive action!** *You backed up your old files, right? ;)*
 
 4.	Type `sudo nano /etc/bamt/bamt.conf` and locate `miner_id`. Add a line underneath called `miner_name` and give your miner a human-readable name. For example, if your `miner-id` is `battlestar` you might want to use `Battlestar`.
 
